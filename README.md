@@ -158,8 +158,8 @@ Distributed under MIT License. See LICENSE for more information.
 
 ### 📧 Contact
 
-Project Lead: John Doe - john@contentguardian.io
+Project Lead: Abhijeet Yadav - rabhi.yad@contentguardian.io
 
 Technical Support: support@contentguardian.io
 
-GitHub Issues: https://github.com/yourusername/content-guardian/issues
+GitHub Issues: https://github.com/thecodeblood/content-guardian/issues
