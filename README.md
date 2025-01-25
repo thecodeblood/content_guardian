@@ -26,7 +26,7 @@ class ContentAnalyzer:
         # Deep learning pattern recognition
         return ai_model.process(asset)
 ```
-###⛓️ Distributed Ledger Framework
+### ⛓️ Distributed Ledger Framework
 
 ```solidity
 contract ContentRegistry {
@@ -40,7 +40,7 @@ contract ContentRegistry {
 }
 ```
 
-###🛡️ Integrity Shield
+### 🛡️ Integrity Shield
 
 ```javascript
 class ProtectionMonitor {
@@ -50,7 +50,7 @@ class ProtectionMonitor {
   }
 }
 ```
-###🚀 Quick Start
+### 🚀 Quick Start
 
 Prerequisites
 
@@ -61,7 +61,7 @@ Prerequisites
 
 4. TensorFlow 2.8+
 
-###Installation
+### Installation
 
 ```bash
 git clone https://github.com/yourusername/content-guardian.git
@@ -73,7 +73,7 @@ npm run dev
 ```
 ### 📚 Usage Guide
 
-####1. **Register Content**
+#### 1. **Register Content**
 
 ```javascript
 const guardian = new ContentGuardian();
@@ -83,7 +83,7 @@ const contentHash = await guardian.registerAsset({
 });
 ```
 
-####2. **Manage Licenses**
+#### 2. **Manage Licenses**
 
 ```solidity
 // Create smart license
@@ -94,7 +94,7 @@ LicenseManager.createLicense(
 );
 ```
 
-####3. **Monitor Usage**
+#### 3. **Monitor Usage**
 
 ```python
 monitor = IntegrityShield()
@@ -105,7 +105,7 @@ report = monitor.generate_report(
 print(report.infringements)
 ```
 
-###🏗️ System Architecture
+### 🏗️ System Architecture
 
 ```mermaid
 
@@ -116,7 +116,7 @@ graph TD
     D --> A
 ```    
 
-###🌍 Market Applications
+### 🌍 Market Applications
 
 | Sector         | Features Enabled                           |
 |:---------------|:-------------------------------------------|
@@ -124,7 +124,7 @@ graph TD
 | Music          | Sample Clearance, Royalty Distribution     |
 | Publishing     | Plagiarism Detection, Rights Management    |
 
-###📈 Roadmap
+### 📈 Roadmap
 
 1. Multi-chain compatibility
 
@@ -138,7 +138,7 @@ graph TD
 
 6. Marketplace Integration
 
-###🤝 Contributing
+### 🤝 Contributing
 
 1. Fork the repository
 
@@ -152,11 +152,11 @@ graph TD
 
 See CONTRIBUTING.md for detailed guidelines.
 
-###📜 License
+### 📜 License
 
 Distributed under MIT License. See LICENSE for more information.
 
-###📧 Contact
+### 📧 Contact
 
 Project Lead: John Doe - john@contentguardian.io
 
