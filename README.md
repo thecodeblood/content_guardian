@@ -4,7 +4,7 @@
 ![AI](https://img.shields.io/badge/AI-ML-orange) 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-<img src="https://example.com/content-guardian-logo.png" width="200" align="right">
+<img src = " ![Designer (1)](https://github.com/user-attachments/assets/c0e5e1c8-4545-4e26-96e7-e7f0f564f605) ">
 
 A decentralized ecosystem combining AI-powered content verification with blockchain security for digital rights management and automated royalty distribution.
 
